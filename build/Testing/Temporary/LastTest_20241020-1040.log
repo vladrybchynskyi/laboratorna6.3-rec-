@@ -1,0 +1,26 @@
+Start testing: Oct 20 13:40 EEST
+----------------------------------------------------------
+1/1 Testing: labor6_3test
+1/1 Test: labor6_3test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw63rec/build/test/labor6_3test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw63rec/build/test
+"labor6_3test" start time: Oct 20 13:40 EEST
+Output:
+----------------------------------------------------------
+arr[0] = 41
+arr[1] = 90
+arr[2] = 64
+arr[3] = 22
+arr[4] = 42
+arr[5] = 88
+Sum (template) =  1
+Sum (standart function) =  1
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"labor6_3test" end time: Oct 20 13:40 EEST
+"labor6_3test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 20 13:40 EEST
